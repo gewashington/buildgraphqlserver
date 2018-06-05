@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Henry Cavill",
+      "email": "manofsteelwasntthatbad@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Chris Hemsworth",
+      "email": "pleaseforgetghostbusters2016@gmail.com",
+      "age": 33
+    },
+    {
+      "id": "3",
+      "name": "Ryan Gosling",
+      "email": "hotandcreepyatthesametime@hotmail.com",
+      "age": 37
+    },
+    {
+      "id": "4",
+      "name": "Chris Pratt",
+      "email": "toolovabletohate@yahoo.com",
+      "age": 33
+    },
+    {
+      "id": "5",
+      "name": "Liam Hemsworth",
+      "email": "thelesserhemsworth@gmail.com",
+      "age": 29
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "email": "ilooklikesidthesloth@gmail.com",
+      "age": 36,
+      "id": "pwt8rn6"
+    }
+  ]
+}
